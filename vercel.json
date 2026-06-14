@@ -1,9 +1,8 @@
 {
-"rewrites": [
-{
-"source": "/:id",
-"destination": "https://script.google.com/macros/s/AKfycbyX8lvHDIJBaFKHFq1Bcojy3QFkgHX3m33-PPBSBTEbyo-ViKUPYXIXWDDxOlReXSQA/exec?id=:id",
-"permanent": false
-}
-]
+  "rewrites": [
+    {
+      "source": "/:id",
+      "destination": "https://script.google.com/macros/s/AKfycbyX8lvHDIJBaFKHFq1Bcojy3QFkgHX3m-PPBSBTEbyo-ViKUPYXIXWDDxOlReXSQA/exec?id=:id"
+    }
+  ]
 }
