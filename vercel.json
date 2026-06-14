@@ -1,8 +1,9 @@
 {
-  "rewrites": [
-    {
-      "source": "/:id",
-      "destination": "https://script.google.com/macros/s/AKfycbyX8lvHDIJBaFKHFq1Bcojy3QFkgHX3m33-PPBSBTEbyo-ViKUPYXIXWDDxOlReXSQA/exec"
-    }
-  ]
+"redirects": [
+{
+"source": "/:id",
+"destination": "https://script.google.com/macros/s/AKfycbyX8lvHDIJBaFKHFq1Bcojy3QFkgHX3m33-PPBSBTEbyo-ViKUPYXIXWDDxOlReXSQA/exec?id=",
+"permanent": false
+}
+]
 }
